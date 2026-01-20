@@ -7,6 +7,6 @@ This Jupiter Notebook contains the code, that was used for training our CNN that
 
 
 File: CNN_with_scheduler.ipynb.
-This Jupiter Notebook contains the code, for the CNN with a scheduler, which refers to the moden with a decreasing Learning Rate.
+This Jupiter Notebook contains the code, for the CNN with a scheduler, which refers to the model with a decreasing Learning Rate.
 
 The code within the two Jupiter Notebooks are almost identically, with the exception of the change in two code-lines, containing the scheduler code. 
